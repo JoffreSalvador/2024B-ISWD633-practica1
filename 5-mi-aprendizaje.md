@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+
+A través de esta práctica de Docker, aprendí a gestionar imágenes y contenedores, desde descargarlos y ejecutarlos hasta eliminarlos, con comandos clave como docker pull, docker run, docker ps y docker rm. Comprendí también el proceso de mapeo de puertos, que permite redirigir tráfico del host al contenedor, esencial para aplicaciones de red, y la importancia del modo "detach" (-d) para ejecutar contenedores sin ocupar el terminal. Además, al enfrentar el problema de eliminación de una imagen en uso, aprendí a resolverlo con docker rmi -f, lo que me ayudó a consolidar conocimientos prácticos y útiles para crear entornos de desarrollo estandarizados y portátiles.
